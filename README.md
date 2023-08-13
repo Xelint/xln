@@ -1,4 +1,4 @@
-# Xelint Coin - CryptoEra
+# Xelint Coin - Xelint
 
 ![Xelint Coin Logo](logo.png)
 

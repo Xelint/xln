@@ -2,9 +2,6 @@
 
 <img src="resources/logo-chiken.png" alt="Xelint Coin Logo" width="480">
 
-![Xelint Coin Logo](resources/logo-chiken.png)
-
-
 Welcome to the Xelint Coin TRC20 contract repository! This repository contains the smart contract implementation for the Xelint Coin, which is based on the TRC20 token standard on the TRON blockchain. The Xelint Coin is integrated into the Xelint wallet system as the default coin for transactions within the system.
 
 ## Table of Contents

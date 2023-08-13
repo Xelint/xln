@@ -1,40 +1,53 @@
-# Xelint Coin - Xelint
+# Xelint Coin TRC20 Contract and Xelint Wallet Integration
 
-![Xelint Coin Logo](logo.png)
+Welcome to the Xelint Coin TRC20 contract repository! This repository contains the smart contract implementation for the Xelint Coin, which is based on the TRC20 token standard on the TRON blockchain. The Xelint Coin is integrated into the Xelint wallet system as the default coin for transactions within the system.
 
-Welcome to the official repository for Xelint Coin, the default currency of the Xelint Wallet System. Xelint Coin is built on the Tron network, providing a secure, efficient, and user-friendly experience for digital transactions.
+## Table of Contents
 
-## Features
+- [Introduction](#introduction)
+- [Smart Contract](#smart-contract)
+- [Xelint Wallet Integration](#xelint-wallet-integration)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
-- **Fast Transactions:** Xelint Coin leverages the Tron network's high-speed capabilities, ensuring lightning-fast transactions for seamless user experiences.
+## Introduction
 
-- **Security:** Built on the latest advancements in blockchain technology, Xelint Coin prioritizes security through encryption and immutability.
+The Xelint Coin is a digital asset built on the TRON blockchain using the TRC20 token standard. It serves as the default coin within the Xelint wallet system, enabling users to perform various transactions, payments, and transfers within the ecosystem.
 
-- **User-Centric Design:** Xelint Coin is designed with users in mind, offering an intuitive interface for both tech-savvy individuals and newcomers.
+## Smart Contract
+
+The smart contract implementation for the Xelint Coin is available in the [`contract`](contract/) directory. It follows the TRC20 token standard and is deployed on the TRON blockchain. You can find the contract source code, tests, and deployment scripts in this directory.
+
+## Xelint Wallet Integration
+
+The Xelint Coin is tightly integrated into the Xelint wallet system. Users of the Xelint wallet can:
+
+- View their Xelint Coin balance.
+- Send Xelint Coins to other wallet addresses.
+- Receive Xelint Coins from other users.
+- Perform transactions and payments using Xelint Coins within the Xelint ecosystem.
 
 ## Getting Started
 
-To get started with Xelint Coin, follow these steps:
+To get started with the Xelint Coin smart contract and Xelint wallet integration, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/yourusername/xelint-coin.git`
-2. Navigate to the project directory: `cd xelint-coin`
-3. Install any necessary dependencies.
-4. Explore the codebase and contribute to the development of Xelint Coin.
+1. Clone this repository:
 
-## Contribution Guidelines
+2. Explore the `contract` directory for the smart contract source code, tests, and deployment scripts.
 
-We welcome contributions from the community to enhance Xelint Coin's features and functionality. To contribute, please follow these steps:
+3. Check out the `wallet-integration` directory to understand how the Xelint Coin is integrated into the Xelint wallet system.
 
-1. Fork this repository.
-2. Create a new branch for your feature or bug fix: `git checkout -b feature/your-feature-name`
-3. Make your changes and commit them with descriptive messages.
-4. Push your changes to your fork: `git push origin feature/your-feature-name`
-5. Open a pull request to the `main` branch of this repository.
+## Usage
 
-## Contact Us
+For detailed usage instructions, refer to the documentation specific to the Xelint wallet system. This documentation should cover topics like creating a wallet, managing Xelint Coin transactions, and interacting with the smart contract.
 
-If you have questions, suggestions, or feedback, feel free to reach out to us at contact@xelintcoin.com.
+## Contributing
+
+We welcome contributions to the Xelint Coin project! If you want to contribute, please follow our [contribution guidelines](CONTRIBUTING.md).
 
 ## License
 
-Xelint Coin is released under the [MIT License](LICENSE).
+This project is licensed under the [Your License Name](LICENSE). Make sure to review the license terms before using or contributing to the project.
+

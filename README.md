@@ -1,6 +1,6 @@
 # Xelint Coin TRC20 (XLN) Contract
 
-<img src="resources/logo-chiken.png" alt="Xelint Coin Logo" width="300">
+<img src="resources/logo-chiken.png" alt="Xelint Coin Logo" width="480">
 
 ![Xelint Coin Logo](resources/logo-chiken.png)
 

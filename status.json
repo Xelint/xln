@@ -1,0 +1,7 @@
+{
+    "scima": {
+        "root":"version",
+        "details_update":"v22.9",
+        "servers":"details_update"
+    }
+}
